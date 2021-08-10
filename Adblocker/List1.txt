@@ -1,0 +1,19 @@
+AD blocker:
+
+adclick
+zeenews.india.com
+taboola.com
+trc.taboola.com
+popup.taboola.com
+googleadservices.com
+googlesyndication.com
+2mdn.net
+doubleclick.net
+googleads.g.doubleclick.net
+g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+taboola.com
+pubmine.com
+adroll.com
+
