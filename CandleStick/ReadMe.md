@@ -1,4 +1,4 @@
-# Cendlestick
+# CandleStick pattern
 
 ## What is a candlestick?
 A candlestick shows an asset’s price movement over a set amount of time. This can be anywhere from a minute to a day, depending on the price chart. They display four different price levels which an asset has reached in the specified time period: the lowest point in an asset’s price, the highest point, and the open and close prices.
@@ -46,19 +46,38 @@ Candlestick patterns are capable of revealing areas of support and resistance, a
 
 As such, candlestick patterns should be used in conjunction with other forms of technical and fundamental analysis to greater confirm a trader’s suspicions of an overall trend.
 
-## Types of candlestick patterns
+## Long Versus Short Bodies
+Generally speaking, the longer the body is, the more intense the buying or selling pressure. Conversely, short candlesticks indicate little price movement and represent consolidation.
+
+### Long white candlesticks show strong buying pressure.
+The longer the white candlestick is, the further the close is above the open. This indicates that prices advanced significantly from open to close and buyers were aggressive. While long white candlesticks are generally bullish, much depends on their position within the broader technical picture. After extended declines, long white candlesticks can mark a potential turning point or support level. If buying gets too aggressive after a long advance, it can lead to excessive bullishness.
+
+### Long black candlesticks show strong selling pressure.
+The longer the black candlestick is, the further the close is below the open. This indicates that prices declined significantly from the open and sellers were aggressive. After a long advance, a long black candlestick can foreshadow a turning point or mark a future resistance level. After a long decline, a long black candlestick can indicate panic or capitulation.
+
+### Marubozu 
+![alt text](Marubozu.png "Marubozu")
+Marubozu do not have upper or lower shadows and the high and low are represented by the open or close. A White Marubozu forms when the open equals the low and the close equals the high. This indicates that buyers controlled the price action from the first trade to the last trade. Black Marubozu form when the open equals the high and the close equals the low. This indicates that sellers controlled the price action from the first trade to the last trade.
+
+## Long Versus Short Shadows
+The upper and lower shadows on candlesticks can provide valuable information about the trading session. Upper shadows represent the session high and lower shadows the session low. Candlesticks with short shadows indicate that most of the trading action was confined near the open and close. Candlesticks with long shadows show that prices extended well past the open and close.
+![alt text](longShadow.png "longshadow")
+Candlesticks with a long upper shadow and short lower shadow indicate that buyers dominated during the session, bidding prices higher, but sellers ultimately forced prices down from their highs. This contrast of strong high and weak close resulted in a long upper shadow. Conversely, candlesticks with long lower shadows and short upper shadows indicate that sellers dominated during the session and drove prices lower. However, buyers later resurfaced to bid prices higher by the end of the session; the strong close created a long lower shadow.
+
+
+# Types of candlestick patterns
 There are many candlestick patterns, which act as useful indicators for traders looking to make price movement predictions.
 
-### Hammer candlesticks
+## Hammer candlesticks
 For instance, one of the bullish candlestick patterns is known as the ‘hammer’ and is formed of a short body with a long lower wick. It is normally found at the end of a downward trend and can be a good indicator of future upward trends.
 ![alt text](hammer..png "candlestick")
 
-### Doji candlestick
+## Doji candlestick
 Another candlestick pattern is the doji, which many believe indicates uncertainty from traders in the market. The doji is comprised of a short or non-existent body and wicks of varying length. Sometimes, a doji can resemble a cross, because a doji’s pattern often has similar open and close positions but varying session high and low positions.
 ![alt text](doji.png "candlestick")
 
 
-# Six bullish candlestick patterns
+## Six bullish candlestick patterns
 Bullish patterns may form after a market downtrend, and signal a reversal of price movement. They are an indicator for traders to consider opening a long position to profit from any upward trajectory.
 
 ## Hammer
@@ -151,7 +170,7 @@ It signals that the bears have taken over the session, pushing the price sharply
 
 
 ---
-# Four continuation candlestick patterns
+## Four continuation candlestick patterns
 ---
 If a candlestick pattern doesn’t indicate a change in market direction, it is what is known as a continuation pattern. These can help traders to identify a period of rest in the market, when there is market indecision or neutral price movement.
 
@@ -179,6 +198,9 @@ The bearish pattern is called the ‘falling three methods’. It is formed of a
 ## Rising three methods
 The opposite is true for the bullish pattern, called the ‘rising three methods’ candlestick pattern. It comprises of three short reds sandwiched within the range of two long greens. The pattern shows traders that, despite some selling pressure, buyers are retaining control of the market.
 ![](rising-three-methods.png)
+
+
+## Other Pattern
 
 ----
 
